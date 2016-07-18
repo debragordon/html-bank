@@ -1,0 +1,31 @@
+body {
+  font-family: Tahoma, Geneva, sans-serif;
+  align: center;
+  background-color: #f2f4f2;
+}
+
+p.inline {
+  display: inline;
+  margin-right: 5px;
+  padding: 1px;
+  line-height: 2em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.active {
+  color: #73AD21;
+  font-weight: bold;
+}
+
+.title {
+  border-radius: 25px;
+  border: 4px solid #73AD21 ;
+  padding: 20px;
+}
+
+fieldset {
+  margin: 10px;
+}
